@@ -2,6 +2,6 @@
   "title": "react-i18nextを使ったreactへようこそzzz",
   "description": {
     "part1": "始めるには<1>src/App.js</1>を編集しましょう。保存するとリロードされます。",
-    "part2": "Switch language between english and german using buttons above."
+    "part2": "ようこそ"
   }
 }
